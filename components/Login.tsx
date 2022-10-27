@@ -10,7 +10,7 @@ const Login = (props: Props) => {
       <div className="flex flex-col items-center mb-10">
         <img
           className="rounded-full h-56 w-56 mb-10"
-          src="/3d-lottery-keno-number-ballgold-260nw-590591747.webp"
+          src="/PinClipart.com_poker-clip-art_5799809.png"
           alt="login screen logo"
         />
         <h1 className="text-6xl text-white font-bold">WEB3 LOTTERY</h1>
